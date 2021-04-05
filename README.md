@@ -7,8 +7,8 @@ https://www.dropbox.com/sh/5t80oqgu0sbtgx3/AAAwY2EIqhIhRzX7exMn2Ta6a?dl=0
 
 Mandatory input files:
 
--gencode_info.txt :- File containing GENCODE gene annotations
+- gencode_info.txt: File containing GENCODE gene annotations
 
--combinedEnhancerAnnotations.txt :- Enhancer annotations from HEDD database (http://zdzlab.einsteinmed.org/1/hedd.php)
+- combinedEnhancerAnnotations.txt: Enhancer annotations from HEDD database (http://zdzlab.einsteinmed.org/1/hedd.php)
 
--v7_eqtl_data :- Tissue specific eQTL data from GTEx v7 release
+- v7_eqtl_data: Tissue specific eQTL data from GTEx v7 release

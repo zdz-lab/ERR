@@ -2,7 +2,8 @@ ERR_finder.R is the script that searches for enhancer-promoter connections using
 
 The script requires R packages 'tidyverse' and bioconductor package 'GenomicRanges' for running.
 
-Annotation files required for running the script are included in the folder 'ERR-datafiles' can be found at https://www.dropbox.com/sh/zmlpnru9nk70mlr/AAC05e0PBHDFBy2PxIozqL7za?dl=0:
+Annotation files required for running the script are included in the folder 'ERR-datafiles' can be found at 
+https://www.dropbox.com/sh/5t80oqgu0sbtgx3/AAAwY2EIqhIhRzX7exMn2Ta6a?dl=0
 
 Mandatory input files:
 
